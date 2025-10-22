@@ -39,3 +39,13 @@ A safe, interactive Python 3 tool to **analyze, report, and optimize** media acr
 sudo apt-get update
 sudo apt-get install -y ffmpeg                   # video/GIF handling
 pip install --upgrade pillow tqdm rich
+```
+## Usage
+
+```bash
+chmod +x site_media_optimizer.py
+./site_media_optimizer.py
+# or: python3 site_media_optimizer.py
+```
+
+
